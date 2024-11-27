@@ -38,6 +38,13 @@ This is a text-based adventure game built using Python and Tkinter. In the game,
 - Click the buttons to make choices and progress through the story.
 - Your decisions will change the course of the game.
 
+## Sample Images
+<img width="603" alt="Gui" src="https://github.com/user-attachments/assets/1c8c0ba4-31ec-4078-aac8-9f15657aa354">
+<img width="604" alt="FirstChoice" src="https://github.com/user-attachments/assets/15cd5980-6b85-447b-95ef-6e191ed6892f">
+<img width="606" alt="SecondChoice" src="https://github.com/user-attachments/assets/d53a72e2-6192-4221-af63-629d0197ce89">
+<img width="603" alt="ThirdChoice" src="https://github.com/user-attachments/assets/dc1158fb-cf2f-438f-b0a9-2266237a1c45">
+<img width="599" alt="FourthChoice" src="https://github.com/user-attachments/assets/dcaa537b-686f-4ef0-9d47-a3a3b5104c98">
+
 ## Author
 - [Pratyaksh Bhandari]
 
